@@ -10,6 +10,10 @@
       <name>Sebastian Karcher</name>
     </author>
     <contributor>
+      <name>Andrew Dunning</name>
+      <uri>https://orcid.org/0000-0003-0464-5036</uri>
+    </contributor>
+    <contributor>
       <name>Patrick O'Brien</name>
     </contributor>
     <category citation-format="author"/>
@@ -299,7 +303,7 @@
         <else>
           <group delimiter=", ">
             <text macro="author-short"/>
-            <group>
+            <group delimiter=" ">
               <label variable="locator" form="short"/>
               <text variable="locator"/>
             </group>
