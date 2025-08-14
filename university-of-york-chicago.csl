@@ -6,11 +6,11 @@
     <title-short>UoY Chicago</title-short>
     <id>http://www.zotero.org/styles/university-of-york-chicago</id>
     <link href="http://www.zotero.org/styles/university-of-york-chicago" rel="self"/>
-    <link href="http://www.zotero.org/styles/chicago-fullnote-bibliography-16th-edition" rel="template"/>
+    <link href="http://www.zotero.org/styles/chicago-notes-bibliography-16th-edition" rel="template"/>
     <link href="https://www.york.ac.uk/students/studying/develop-your-skills/study-skills/study/integrity/referencing-styles/" rel="documentation"/>
     <category citation-format="note"/>
     <summary>UoY version Chicago format with full notes and bibliography</summary>
-    <updated>2025-06-07T14:48:41+01:00</updated>
+    <updated>2025-08-15T00:29:32+01:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
