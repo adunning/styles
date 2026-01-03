@@ -4,7 +4,7 @@
     <title>Anaesthesia</title>
     <id>http://www.zotero.org/styles/anaesthesia</id>
     <link href="http://www.zotero.org/styles/anaesthesia" rel="self"/>
-    <link href="http://www.zotero.org/styles/oxford-university-press-scimed-numeric" rel="template"/>
+    <link href="http://www.zotero.org/styles/oxford-journals-scimed-numeric" rel="template"/>
     <link href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2044/homepage/ForAuthors.html" rel="documentation"/>
     <author>
       <name>Sebastian Karcher</name>
@@ -13,7 +13,7 @@
     <category field="medicine"/>
     <issn>0003-2409</issn>
     <eissn>1365-2044</eissn>
-    <updated>2025-09-19T14:20:04+02:00</updated>
+    <updated>2026-01-03T15:21:12-06:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

@@ -5,7 +5,7 @@
     <title-short>BJSW</title-short>
     <id>http://www.zotero.org/styles/the-british-journal-of-social-work</id>
     <link href="http://www.zotero.org/styles/the-british-journal-of-social-work" rel="self"/>
-    <link href="http://www.zotero.org/styles/oxford-university-press-scimed-author-date" rel="template"/>
+    <link href="http://www.zotero.org/styles/oxford-journals-scimed-author-date" rel="template"/>
     <link href="https://academic.oup.com/bjsw/pages/General_Instructions" rel="documentation"/>
     <link href="https://static.primary.prod.gcms.the-infra.com/static/site/bjsw/document/bjsw-manuscript-preparation.pdf?node=121b0c53c927642fa59b" rel="documentation"/>
     <author>
@@ -19,7 +19,7 @@
     <category field="social_science"/>
     <issn>0045-3102</issn>
     <eissn>1468-263X</eissn>
-    <updated>2025-10-24T09:03:09+02:00</updated>
+    <updated>2026-01-03T15:21:12-06:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
