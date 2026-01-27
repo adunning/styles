@@ -4,7 +4,7 @@
     <title>International Journal of Epidemiology</title>
     <id>http://www.zotero.org/styles/international-journal-of-epidemiology</id>
     <link href="http://www.zotero.org/styles/international-journal-of-epidemiology" rel="self"/>
-    <link href="http://www.zotero.org/styles/vancouver-superscript" rel="template"/>
+    <link href="http://www.zotero.org/styles/nlm-citation-sequence-superscript" rel="template"/>
     <link href="https://academic.oup.com/ije/pages/Instructions_To_Authors" rel="documentation"/>
     <author>
       <name>Charles Parnot</name>
@@ -15,7 +15,7 @@
     <category field="medicine"/>
     <issn>0300-5771</issn>
     <eissn>1464-3685</eissn>
-    <updated>2026-01-03T15:21:12-06:00</updated>
+    <updated>2026-01-27T10:04:53+01:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">

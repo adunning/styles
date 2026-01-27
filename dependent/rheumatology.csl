@@ -4,13 +4,13 @@
     <title>Rheumatology</title>
     <id>http://www.zotero.org/styles/rheumatology</id>
     <link href="http://www.zotero.org/styles/rheumatology" rel="self"/>
-    <link href="http://www.zotero.org/styles/vancouver-brackets-only-year-no-issue" rel="independent-parent"/>
+    <link href="http://www.zotero.org/styles/nlm-citation-sequence-brackets-year-only-no-issue" rel="independent-parent"/>
     <link href="https://academic.oup.com/rheumatology/pages/General_Instructions" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <issn>1462-0324</issn>
     <eissn>1462-0332</eissn>
-    <updated>2026-01-03T15:21:12-06:00</updated>
+    <updated>2026-01-27T10:04:53+01:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
 </style>
